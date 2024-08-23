@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PRODIGY_WD_04/static/css/main.9864a45a.css",
+    "main.js": "/PRODIGY_WD_04/static/js/main.a65203d9.js",
+    "static/js/787.128fc6e9.chunk.js": "/PRODIGY_WD_04/static/js/787.128fc6e9.chunk.js",
+    "static/media/Divya-cv.pdf": "/PRODIGY_WD_04/static/media/Divya-cv.9aa6d36097fec2b15403.pdf",
+    "static/media/profile-picture.jpg": "/PRODIGY_WD_04/static/media/profile-picture.3d03c03f3074ef579ab2.jpg",
+    "static/media/Poppins-Thin.ttf": "/PRODIGY_WD_04/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/PRODIGY_WD_04/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/PRODIGY_WD_04/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/PRODIGY_WD_04/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/PRODIGY_WD_04/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/PRODIGY_WD_04/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/PRODIGY_WD_04/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/PRODIGY_WD_04/static/media/bg.80fdcbc9367b2904ad40.jpg",
+    "index.html": "/PRODIGY_WD_04/index.html",
+    "main.9864a45a.css.map": "/PRODIGY_WD_04/static/css/main.9864a45a.css.map",
+    "main.a65203d9.js.map": "/PRODIGY_WD_04/static/js/main.a65203d9.js.map",
+    "787.128fc6e9.chunk.js.map": "/PRODIGY_WD_04/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9864a45a.css",
+    "static/js/main.a65203d9.js"
+  ]
+}
